@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohakial)](https://github.com/pedrohakial/github-readme-stats)
+
 <!--
 **pedrohakial/pedrohakial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
